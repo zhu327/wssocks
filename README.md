@@ -1,4 +1,4 @@
-# wssokcs for shuttle.rs
+# wssocks for shuttle.rs
 
 ## Features
 
